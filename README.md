@@ -60,13 +60,19 @@ gcc main.c -o parallel_cipher -lpthread -lssl -lcrypto -lncurses
 
 The TUI allows you to set the mode, choose files, and specify thread counts in a clean interface.
 
+<img src="images/s1.png" width="700">
+
 ### 2. Built-in File Browser
 
 Easily navigate your local directories to select input files.
 
+<img src="images/s2.png" width="700">
+
 ### 3. Execution Summary
 
 Once the process finishes, the tool provides a summary of the time taken and the processing speed.
+
+<img src="images/s3.png" width="700">
 
 ## ⚠️ Important Notes
 
