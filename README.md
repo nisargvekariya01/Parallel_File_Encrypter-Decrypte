@@ -93,15 +93,15 @@ gcc main.c -o parallel_cipher -lpthread -lssl -lcrypto -lncurses
 
 ### Main TUI
 
-![Main TUI](images/tui_main.png)
+<img src="images/s1.png" width="700">
 
 ### File Browser
 
-![File Browser](images/file_browser.png)
+<img src="images/s2.png" width="700">
 
 ### Completion Summary
 
-![Completion](images/completion.png)
+<img src="images/s3.png" width="700">
 
 ---
 
